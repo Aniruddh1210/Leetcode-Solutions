@@ -6,6 +6,7 @@ Collection of LeetCode solns.
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0150-evaluate-reverse-polish-notation](https://github.com/Aniruddh1210/Leetcode-Solutions/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Aniruddh1210/Leetcode-Solutions/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Aniruddh1210/Leetcode-Solutions/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 ## Hash Table
@@ -21,4 +22,12 @@ Collection of LeetCode solns.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Aniruddh1210/Leetcode-Solutions/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
+## Math
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0150-evaluate-reverse-polish-notation](https://github.com/Aniruddh1210/Leetcode-Solutions/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
+## Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0150-evaluate-reverse-polish-notation](https://github.com/Aniruddh1210/Leetcode-Solutions/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 <!---LeetCode Topics End-->
