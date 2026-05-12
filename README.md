@@ -56,4 +56,8 @@ Collection of LeetCode solns.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0547-number-of-provinces](https://github.com/Aniruddh1210/Leetcode-Solutions/tree/main/0547-number-of-provinces/) | Medium |
+## String
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1078-occurrences-after-bigram](https://github.com/Aniruddh1210/Leetcode-Solutions/tree/main/1078-occurrences-after-bigram/) | Easy |
 <!---LeetCode Topics End-->
