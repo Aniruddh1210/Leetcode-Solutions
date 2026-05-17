@@ -6,6 +6,7 @@ Collection of LeetCode solns.
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0130-surrounded-regions](https://github.com/Aniruddh1210/Leetcode-Solutions/tree/main/0130-surrounded-regions/) | Medium |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Aniruddh1210/Leetcode-Solutions/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Aniruddh1210/Leetcode-Solutions/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
 | [0542-01-matrix](https://github.com/Aniruddh1210/Leetcode-Solutions/tree/main/0542-01-matrix/) | Medium |
@@ -36,11 +37,13 @@ Collection of LeetCode solns.
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0130-surrounded-regions](https://github.com/Aniruddh1210/Leetcode-Solutions/tree/main/0130-surrounded-regions/) | Medium |
 | [0547-number-of-provinces](https://github.com/Aniruddh1210/Leetcode-Solutions/tree/main/0547-number-of-provinces/) | Medium |
 | [0733-flood-fill](https://github.com/Aniruddh1210/Leetcode-Solutions/tree/main/0733-flood-fill/) | Easy |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0130-surrounded-regions](https://github.com/Aniruddh1210/Leetcode-Solutions/tree/main/0130-surrounded-regions/) | Medium |
 | [0542-01-matrix](https://github.com/Aniruddh1210/Leetcode-Solutions/tree/main/0542-01-matrix/) | Medium |
 | [0547-number-of-provinces](https://github.com/Aniruddh1210/Leetcode-Solutions/tree/main/0547-number-of-provinces/) | Medium |
 | [0733-flood-fill](https://github.com/Aniruddh1210/Leetcode-Solutions/tree/main/0733-flood-fill/) | Easy |
@@ -48,12 +51,14 @@ Collection of LeetCode solns.
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0130-surrounded-regions](https://github.com/Aniruddh1210/Leetcode-Solutions/tree/main/0130-surrounded-regions/) | Medium |
 | [0542-01-matrix](https://github.com/Aniruddh1210/Leetcode-Solutions/tree/main/0542-01-matrix/) | Medium |
 | [0733-flood-fill](https://github.com/Aniruddh1210/Leetcode-Solutions/tree/main/0733-flood-fill/) | Easy |
 | [0994-rotting-oranges](https://github.com/Aniruddh1210/Leetcode-Solutions/tree/main/0994-rotting-oranges/) | Medium |
 ## Union-Find
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0130-surrounded-regions](https://github.com/Aniruddh1210/Leetcode-Solutions/tree/main/0130-surrounded-regions/) | Medium |
 | [0547-number-of-provinces](https://github.com/Aniruddh1210/Leetcode-Solutions/tree/main/0547-number-of-provinces/) | Medium |
 ## Graph Theory
 | Problem Name | Difficulty |
