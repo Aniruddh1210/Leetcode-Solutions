@@ -1,47 +1,37 @@
-//adjacents can't have the same colour
-//linear(graphs without cycle) can be bipartite
-//Even cycle graphs can be bipartite
-//Odd length cycle graphs can never be bipartite
-//just keep giving the neighbours the opposite colour from the source node
-//keep checking if neighbours are having alternate colour if they are already visited
-//just use bfs
-
 class Solution {
+    //using dfs
+    //if any adj node is already coloured it means it can't be a bipartite
+    //-1 means unvis
 
-    public static boolean bfs(int val,int[][]graph, int[] vis){
-        Queue<Integer> q = new LinkedList<>();
-        q.add(val);
-        vis[val]=1;
-
-        while(!q.isEmpty()){
-            int node = q.poll();
-            for(int it : graph[node]){
-                if(vis[it]==vis[node]){
+    public static boolean dfs(int[][] graph,int[] colours,int node,int colour){
+        for(int it :graph[node]){
+            if(colours[it]==-1){
+                if(colours[node]==0){
+                    colours[it]=1;
+                    if(!dfs(graph,colours,it,1)) return false;
+                }else{
+                    colours[it]=0;
+                    return dfs(graph,colours,it,0);
+                }
+            }else{
+                if(colours[it]==colours[node]){
                     return false;
-                }else if(vis[it]==0){
-                    if(vis[node]==1){
-                        vis[it]=2;
-                    }else{
-                        vis[it]=1;
-                    }
-                    q.add(it);
                 }
             }
         }
-
         return true;
     }
 
     public boolean isBipartite(int[][] graph) {
+        int[] colours = new int[graph.length];
+        Arrays.fill(colours,-1);
 
-        int[] vis = new int[graph.length];
-
-        for (int i = 0; i < graph.length; i++) {
-            if (vis[i] == 0) {
-                if (!bfs(i,graph, vis))
-                    return false;
+        for(int i=0;i<graph.length;i++){
+            if(colours[i]==-1){
+                colours[i]=0;
+                if(!dfs(graph,colours,i,0))return false;
             }
-        }
+        }    
         return true;
     }
 }
