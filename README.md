@@ -80,6 +80,7 @@ Collection of LeetCode solns.
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0125-valid-palindrome](https://github.com/Aniruddh1210/Leetcode-Solutions/tree/main/0125-valid-palindrome/) | Easy |
 | [1078-occurrences-after-bigram](https://github.com/Aniruddh1210/Leetcode-Solutions/tree/main/1078-occurrences-after-bigram/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
@@ -89,4 +90,8 @@ Collection of LeetCode solns.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0238-product-of-array-except-self](https://github.com/Aniruddh1210/Leetcode-Solutions/tree/main/0238-product-of-array-except-self/) | Medium |
+## Two Pointers
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0125-valid-palindrome](https://github.com/Aniruddh1210/Leetcode-Solutions/tree/main/0125-valid-palindrome/) | Easy |
 <!---LeetCode Topics End-->
