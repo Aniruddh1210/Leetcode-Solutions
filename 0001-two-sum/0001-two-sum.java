@@ -1,4 +1,4 @@
-//Optimal hashmap
+//Optimal hashmap but with two pass 
 
 class Solution {
     public int[] twoSum(int[] nums, int target) {
