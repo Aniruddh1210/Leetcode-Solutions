@@ -6,6 +6,7 @@ Collection of LeetCode solns.
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0001-two-sum](https://github.com/Aniruddh1210/Leetcode-Solutions/tree/main/0001-two-sum/) | Easy |
 | [0128-longest-consecutive-sequence](https://github.com/Aniruddh1210/Leetcode-Solutions/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0130-surrounded-regions](https://github.com/Aniruddh1210/Leetcode-Solutions/tree/main/0130-surrounded-regions/) | Medium |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Aniruddh1210/Leetcode-Solutions/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
@@ -20,6 +21,7 @@ Collection of LeetCode solns.
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0001-two-sum](https://github.com/Aniruddh1210/Leetcode-Solutions/tree/main/0001-two-sum/) | Easy |
 | [0128-longest-consecutive-sequence](https://github.com/Aniruddh1210/Leetcode-Solutions/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0217-contains-duplicate](https://github.com/Aniruddh1210/Leetcode-Solutions/tree/main/0217-contains-duplicate/) | Easy |
 | [0242-valid-anagram](https://github.com/Aniruddh1210/Leetcode-Solutions/tree/main/0242-valid-anagram/) | Easy |
