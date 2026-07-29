@@ -22,12 +22,14 @@ Collection of LeetCode solns.
 | ------- | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Aniruddh1210/Leetcode-Solutions/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0217-contains-duplicate](https://github.com/Aniruddh1210/Leetcode-Solutions/tree/main/0217-contains-duplicate/) | Easy |
+| [0242-valid-anagram](https://github.com/Aniruddh1210/Leetcode-Solutions/tree/main/0242-valid-anagram/) | Easy |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Aniruddh1210/Leetcode-Solutions/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Aniruddh1210/Leetcode-Solutions/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0217-contains-duplicate](https://github.com/Aniruddh1210/Leetcode-Solutions/tree/main/0217-contains-duplicate/) | Easy |
+| [0242-valid-anagram](https://github.com/Aniruddh1210/Leetcode-Solutions/tree/main/0242-valid-anagram/) | Easy |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Aniruddh1210/Leetcode-Solutions/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 ## Counting Sort
 | Problem Name | Difficulty |
@@ -84,6 +86,7 @@ Collection of LeetCode solns.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0125-valid-palindrome](https://github.com/Aniruddh1210/Leetcode-Solutions/tree/main/0125-valid-palindrome/) | Easy |
+| [0242-valid-anagram](https://github.com/Aniruddh1210/Leetcode-Solutions/tree/main/0242-valid-anagram/) | Easy |
 | [1078-occurrences-after-bigram](https://github.com/Aniruddh1210/Leetcode-Solutions/tree/main/1078-occurrences-after-bigram/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
