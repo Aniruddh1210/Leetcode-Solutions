@@ -47,6 +47,7 @@ Collection of LeetCode solns.
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0020-valid-parentheses](https://github.com/Aniruddh1210/Leetcode-Solutions/tree/main/0020-valid-parentheses/) | Easy |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Aniruddh1210/Leetcode-Solutions/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 ## Depth-First Search
 | Problem Name | Difficulty |
@@ -90,6 +91,7 @@ Collection of LeetCode solns.
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0020-valid-parentheses](https://github.com/Aniruddh1210/Leetcode-Solutions/tree/main/0020-valid-parentheses/) | Easy |
 | [0125-valid-palindrome](https://github.com/Aniruddh1210/Leetcode-Solutions/tree/main/0125-valid-palindrome/) | Easy |
 | [0242-valid-anagram](https://github.com/Aniruddh1210/Leetcode-Solutions/tree/main/0242-valid-anagram/) | Easy |
 | [1078-occurrences-after-bigram](https://github.com/Aniruddh1210/Leetcode-Solutions/tree/main/1078-occurrences-after-bigram/) | Easy |
