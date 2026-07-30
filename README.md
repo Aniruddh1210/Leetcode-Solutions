@@ -7,6 +7,7 @@ Collection of LeetCode solns.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/Aniruddh1210/Leetcode-Solutions/tree/main/0001-two-sum/) | Easy |
+| [0011-container-with-most-water](https://github.com/Aniruddh1210/Leetcode-Solutions/tree/main/0011-container-with-most-water/) | Medium |
 | [0015-3sum](https://github.com/Aniruddh1210/Leetcode-Solutions/tree/main/0015-3sum/) | Medium |
 | [0128-longest-consecutive-sequence](https://github.com/Aniruddh1210/Leetcode-Solutions/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0130-surrounded-regions](https://github.com/Aniruddh1210/Leetcode-Solutions/tree/main/0130-surrounded-regions/) | Medium |
@@ -103,6 +104,11 @@ Collection of LeetCode solns.
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0011-container-with-most-water](https://github.com/Aniruddh1210/Leetcode-Solutions/tree/main/0011-container-with-most-water/) | Medium |
 | [0015-3sum](https://github.com/Aniruddh1210/Leetcode-Solutions/tree/main/0015-3sum/) | Medium |
 | [0125-valid-palindrome](https://github.com/Aniruddh1210/Leetcode-Solutions/tree/main/0125-valid-palindrome/) | Easy |
+## Greedy
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0011-container-with-most-water](https://github.com/Aniruddh1210/Leetcode-Solutions/tree/main/0011-container-with-most-water/) | Medium |
 <!---LeetCode Topics End-->
