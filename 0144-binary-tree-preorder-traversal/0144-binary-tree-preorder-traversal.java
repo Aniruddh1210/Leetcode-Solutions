@@ -13,13 +13,20 @@
  *     }
  * }
  */
+ //iterative method 
 class Solution {
-    public  List<Integer> ans = new ArrayList<>();
     public List<Integer> preorderTraversal(TreeNode root) {
-        if(root == null) return ans;
-        ans.add(root.val);
-        preorderTraversal(root.left);
-        preorderTraversal(root.right);
+        Stack<TreeNode> st = new Stack<>();
+        ArrayList<Integer> ans = new ArrayList<>();
+        if(root==null) return ans;
+        st.add(root);
+
+        while(!st.isEmpty()){
+            TreeNode temp = st.pop();
+            ans.add(temp.val);
+            if(temp.right!=null) st.push(temp.right);
+            if(temp.left!=null) st.push(temp.left);
+        }
         return ans;
     }
 }
