@@ -51,6 +51,7 @@ Collection of LeetCode solns.
 | [0020-valid-parentheses](https://github.com/Aniruddh1210/Leetcode-Solutions/tree/main/0020-valid-parentheses/) | Easy |
 | [0094-binary-tree-inorder-traversal](https://github.com/Aniruddh1210/Leetcode-Solutions/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 | [0144-binary-tree-preorder-traversal](https://github.com/Aniruddh1210/Leetcode-Solutions/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
+| [0145-binary-tree-postorder-traversal](https://github.com/Aniruddh1210/Leetcode-Solutions/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Aniruddh1210/Leetcode-Solutions/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 ## Depth-First Search
 | Problem Name | Difficulty |
@@ -58,6 +59,7 @@ Collection of LeetCode solns.
 | [0094-binary-tree-inorder-traversal](https://github.com/Aniruddh1210/Leetcode-Solutions/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 | [0130-surrounded-regions](https://github.com/Aniruddh1210/Leetcode-Solutions/tree/main/0130-surrounded-regions/) | Medium |
 | [0144-binary-tree-preorder-traversal](https://github.com/Aniruddh1210/Leetcode-Solutions/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
+| [0145-binary-tree-postorder-traversal](https://github.com/Aniruddh1210/Leetcode-Solutions/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 | [0547-number-of-provinces](https://github.com/Aniruddh1210/Leetcode-Solutions/tree/main/0547-number-of-provinces/) | Medium |
 | [0733-flood-fill](https://github.com/Aniruddh1210/Leetcode-Solutions/tree/main/0733-flood-fill/) | Easy |
 | [0785-is-graph-bipartite](https://github.com/Aniruddh1210/Leetcode-Solutions/tree/main/0785-is-graph-bipartite/) | Medium |
@@ -129,9 +131,11 @@ Collection of LeetCode solns.
 | ------- | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Aniruddh1210/Leetcode-Solutions/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 | [0144-binary-tree-preorder-traversal](https://github.com/Aniruddh1210/Leetcode-Solutions/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
+| [0145-binary-tree-postorder-traversal](https://github.com/Aniruddh1210/Leetcode-Solutions/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Aniruddh1210/Leetcode-Solutions/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 | [0144-binary-tree-preorder-traversal](https://github.com/Aniruddh1210/Leetcode-Solutions/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
+| [0145-binary-tree-postorder-traversal](https://github.com/Aniruddh1210/Leetcode-Solutions/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 <!---LeetCode Topics End-->
