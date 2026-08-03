@@ -160,6 +160,7 @@ Collection of LeetCode solns.
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Aniruddh1210/Leetcode-Solutions/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
 | [0543-diameter-of-binary-tree](https://github.com/Aniruddh1210/Leetcode-Solutions/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [0662-maximum-width-of-binary-tree](https://github.com/Aniruddh1210/Leetcode-Solutions/tree/main/0662-maximum-width-of-binary-tree/) | Medium |
+| [0700-search-in-a-binary-search-tree](https://github.com/Aniruddh1210/Leetcode-Solutions/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Aniruddh1210/Leetcode-Solutions/tree/main/0863-all-nodes-distance-k-in-binary-tree/) | Medium |
 ## Binary Tree
 | Problem Name | Difficulty |
@@ -177,6 +178,7 @@ Collection of LeetCode solns.
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Aniruddh1210/Leetcode-Solutions/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
 | [0543-diameter-of-binary-tree](https://github.com/Aniruddh1210/Leetcode-Solutions/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [0662-maximum-width-of-binary-tree](https://github.com/Aniruddh1210/Leetcode-Solutions/tree/main/0662-maximum-width-of-binary-tree/) | Medium |
+| [0700-search-in-a-binary-search-tree](https://github.com/Aniruddh1210/Leetcode-Solutions/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Aniruddh1210/Leetcode-Solutions/tree/main/0863-all-nodes-distance-k-in-binary-tree/) | Medium |
 ## Binary Lifting
 | Problem Name | Difficulty |
@@ -186,4 +188,8 @@ Collection of LeetCode solns.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Aniruddh1210/Leetcode-Solutions/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
+## Binary Search Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0700-search-in-a-binary-search-tree](https://github.com/Aniruddh1210/Leetcode-Solutions/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
 <!---LeetCode Topics End-->
