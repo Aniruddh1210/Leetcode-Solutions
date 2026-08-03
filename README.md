@@ -29,6 +29,7 @@ Collection of LeetCode solns.
 | [0217-contains-duplicate](https://github.com/Aniruddh1210/Leetcode-Solutions/tree/main/0217-contains-duplicate/) | Easy |
 | [0242-valid-anagram](https://github.com/Aniruddh1210/Leetcode-Solutions/tree/main/0242-valid-anagram/) | Easy |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Aniruddh1210/Leetcode-Solutions/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
+| [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Aniruddh1210/Leetcode-Solutions/tree/main/0863-all-nodes-distance-k-in-binary-tree/) | Medium |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Aniruddh1210/Leetcode-Solutions/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
@@ -71,6 +72,7 @@ Collection of LeetCode solns.
 | [0662-maximum-width-of-binary-tree](https://github.com/Aniruddh1210/Leetcode-Solutions/tree/main/0662-maximum-width-of-binary-tree/) | Medium |
 | [0733-flood-fill](https://github.com/Aniruddh1210/Leetcode-Solutions/tree/main/0733-flood-fill/) | Easy |
 | [0785-is-graph-bipartite](https://github.com/Aniruddh1210/Leetcode-Solutions/tree/main/0785-is-graph-bipartite/) | Medium |
+| [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Aniruddh1210/Leetcode-Solutions/tree/main/0863-all-nodes-distance-k-in-binary-tree/) | Medium |
 | [1020-number-of-enclaves](https://github.com/Aniruddh1210/Leetcode-Solutions/tree/main/1020-number-of-enclaves/) | Medium |
 ## Breadth-First Search
 | Problem Name | Difficulty |
@@ -86,6 +88,7 @@ Collection of LeetCode solns.
 | [0662-maximum-width-of-binary-tree](https://github.com/Aniruddh1210/Leetcode-Solutions/tree/main/0662-maximum-width-of-binary-tree/) | Medium |
 | [0733-flood-fill](https://github.com/Aniruddh1210/Leetcode-Solutions/tree/main/0733-flood-fill/) | Easy |
 | [0785-is-graph-bipartite](https://github.com/Aniruddh1210/Leetcode-Solutions/tree/main/0785-is-graph-bipartite/) | Medium |
+| [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Aniruddh1210/Leetcode-Solutions/tree/main/0863-all-nodes-distance-k-in-binary-tree/) | Medium |
 | [0994-rotting-oranges](https://github.com/Aniruddh1210/Leetcode-Solutions/tree/main/0994-rotting-oranges/) | Medium |
 | [1020-number-of-enclaves](https://github.com/Aniruddh1210/Leetcode-Solutions/tree/main/1020-number-of-enclaves/) | Medium |
 ## Matrix
@@ -157,6 +160,7 @@ Collection of LeetCode solns.
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Aniruddh1210/Leetcode-Solutions/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
 | [0543-diameter-of-binary-tree](https://github.com/Aniruddh1210/Leetcode-Solutions/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [0662-maximum-width-of-binary-tree](https://github.com/Aniruddh1210/Leetcode-Solutions/tree/main/0662-maximum-width-of-binary-tree/) | Medium |
+| [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Aniruddh1210/Leetcode-Solutions/tree/main/0863-all-nodes-distance-k-in-binary-tree/) | Medium |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -173,6 +177,7 @@ Collection of LeetCode solns.
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Aniruddh1210/Leetcode-Solutions/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
 | [0543-diameter-of-binary-tree](https://github.com/Aniruddh1210/Leetcode-Solutions/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [0662-maximum-width-of-binary-tree](https://github.com/Aniruddh1210/Leetcode-Solutions/tree/main/0662-maximum-width-of-binary-tree/) | Medium |
+| [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Aniruddh1210/Leetcode-Solutions/tree/main/0863-all-nodes-distance-k-in-binary-tree/) | Medium |
 ## Binary Lifting
 | Problem Name | Difficulty |
 | ------- | ------- |
