@@ -68,6 +68,7 @@ Collection of LeetCode solns.
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Aniruddh1210/Leetcode-Solutions/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
 | [0543-diameter-of-binary-tree](https://github.com/Aniruddh1210/Leetcode-Solutions/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [0547-number-of-provinces](https://github.com/Aniruddh1210/Leetcode-Solutions/tree/main/0547-number-of-provinces/) | Medium |
+| [0662-maximum-width-of-binary-tree](https://github.com/Aniruddh1210/Leetcode-Solutions/tree/main/0662-maximum-width-of-binary-tree/) | Medium |
 | [0733-flood-fill](https://github.com/Aniruddh1210/Leetcode-Solutions/tree/main/0733-flood-fill/) | Easy |
 | [0785-is-graph-bipartite](https://github.com/Aniruddh1210/Leetcode-Solutions/tree/main/0785-is-graph-bipartite/) | Medium |
 | [1020-number-of-enclaves](https://github.com/Aniruddh1210/Leetcode-Solutions/tree/main/1020-number-of-enclaves/) | Medium |
@@ -82,6 +83,7 @@ Collection of LeetCode solns.
 | [0130-surrounded-regions](https://github.com/Aniruddh1210/Leetcode-Solutions/tree/main/0130-surrounded-regions/) | Medium |
 | [0542-01-matrix](https://github.com/Aniruddh1210/Leetcode-Solutions/tree/main/0542-01-matrix/) | Medium |
 | [0547-number-of-provinces](https://github.com/Aniruddh1210/Leetcode-Solutions/tree/main/0547-number-of-provinces/) | Medium |
+| [0662-maximum-width-of-binary-tree](https://github.com/Aniruddh1210/Leetcode-Solutions/tree/main/0662-maximum-width-of-binary-tree/) | Medium |
 | [0733-flood-fill](https://github.com/Aniruddh1210/Leetcode-Solutions/tree/main/0733-flood-fill/) | Easy |
 | [0785-is-graph-bipartite](https://github.com/Aniruddh1210/Leetcode-Solutions/tree/main/0785-is-graph-bipartite/) | Medium |
 | [0994-rotting-oranges](https://github.com/Aniruddh1210/Leetcode-Solutions/tree/main/0994-rotting-oranges/) | Medium |
@@ -154,6 +156,7 @@ Collection of LeetCode solns.
 | [0145-binary-tree-postorder-traversal](https://github.com/Aniruddh1210/Leetcode-Solutions/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Aniruddh1210/Leetcode-Solutions/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
 | [0543-diameter-of-binary-tree](https://github.com/Aniruddh1210/Leetcode-Solutions/tree/main/0543-diameter-of-binary-tree/) | Easy |
+| [0662-maximum-width-of-binary-tree](https://github.com/Aniruddh1210/Leetcode-Solutions/tree/main/0662-maximum-width-of-binary-tree/) | Medium |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -169,6 +172,7 @@ Collection of LeetCode solns.
 | [0145-binary-tree-postorder-traversal](https://github.com/Aniruddh1210/Leetcode-Solutions/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Aniruddh1210/Leetcode-Solutions/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
 | [0543-diameter-of-binary-tree](https://github.com/Aniruddh1210/Leetcode-Solutions/tree/main/0543-diameter-of-binary-tree/) | Easy |
+| [0662-maximum-width-of-binary-tree](https://github.com/Aniruddh1210/Leetcode-Solutions/tree/main/0662-maximum-width-of-binary-tree/) | Medium |
 ## Binary Lifting
 | Problem Name | Difficulty |
 | ------- | ------- |
