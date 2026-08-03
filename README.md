@@ -161,6 +161,7 @@ Collection of LeetCode solns.
 | [0543-diameter-of-binary-tree](https://github.com/Aniruddh1210/Leetcode-Solutions/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [0662-maximum-width-of-binary-tree](https://github.com/Aniruddh1210/Leetcode-Solutions/tree/main/0662-maximum-width-of-binary-tree/) | Medium |
 | [0700-search-in-a-binary-search-tree](https://github.com/Aniruddh1210/Leetcode-Solutions/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
+| [0701-insert-into-a-binary-search-tree](https://github.com/Aniruddh1210/Leetcode-Solutions/tree/main/0701-insert-into-a-binary-search-tree/) | Medium |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Aniruddh1210/Leetcode-Solutions/tree/main/0863-all-nodes-distance-k-in-binary-tree/) | Medium |
 ## Binary Tree
 | Problem Name | Difficulty |
@@ -179,6 +180,7 @@ Collection of LeetCode solns.
 | [0543-diameter-of-binary-tree](https://github.com/Aniruddh1210/Leetcode-Solutions/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [0662-maximum-width-of-binary-tree](https://github.com/Aniruddh1210/Leetcode-Solutions/tree/main/0662-maximum-width-of-binary-tree/) | Medium |
 | [0700-search-in-a-binary-search-tree](https://github.com/Aniruddh1210/Leetcode-Solutions/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
+| [0701-insert-into-a-binary-search-tree](https://github.com/Aniruddh1210/Leetcode-Solutions/tree/main/0701-insert-into-a-binary-search-tree/) | Medium |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Aniruddh1210/Leetcode-Solutions/tree/main/0863-all-nodes-distance-k-in-binary-tree/) | Medium |
 ## Binary Lifting
 | Problem Name | Difficulty |
@@ -192,4 +194,5 @@ Collection of LeetCode solns.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0700-search-in-a-binary-search-tree](https://github.com/Aniruddh1210/Leetcode-Solutions/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
+| [0701-insert-into-a-binary-search-tree](https://github.com/Aniruddh1210/Leetcode-Solutions/tree/main/0701-insert-into-a-binary-search-tree/) | Medium |
 <!---LeetCode Topics End-->
