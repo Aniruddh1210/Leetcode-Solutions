@@ -16,6 +16,7 @@ Collection of LeetCode solns.
 | [0238-product-of-array-except-self](https://github.com/Aniruddh1210/Leetcode-Solutions/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Aniruddh1210/Leetcode-Solutions/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
 | [0542-01-matrix](https://github.com/Aniruddh1210/Leetcode-Solutions/tree/main/0542-01-matrix/) | Medium |
+| [0704-binary-search](https://github.com/Aniruddh1210/Leetcode-Solutions/tree/main/0704-binary-search/) | Easy |
 | [0733-flood-fill](https://github.com/Aniruddh1210/Leetcode-Solutions/tree/main/0733-flood-fill/) | Easy |
 | [0994-rotting-oranges](https://github.com/Aniruddh1210/Leetcode-Solutions/tree/main/0994-rotting-oranges/) | Medium |
 | [1020-number-of-enclaves](https://github.com/Aniruddh1210/Leetcode-Solutions/tree/main/1020-number-of-enclaves/) | Medium |
@@ -199,4 +200,5 @@ Collection of LeetCode solns.
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Aniruddh1210/Leetcode-Solutions/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
 | [0700-search-in-a-binary-search-tree](https://github.com/Aniruddh1210/Leetcode-Solutions/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
 | [0701-insert-into-a-binary-search-tree](https://github.com/Aniruddh1210/Leetcode-Solutions/tree/main/0701-insert-into-a-binary-search-tree/) | Medium |
+| [0704-binary-search](https://github.com/Aniruddh1210/Leetcode-Solutions/tree/main/0704-binary-search/) | Easy |
 <!---LeetCode Topics End-->
