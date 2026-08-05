@@ -9,6 +9,7 @@ Collection of LeetCode solns.
 | [0001-two-sum](https://github.com/Aniruddh1210/Leetcode-Solutions/tree/main/0001-two-sum/) | Easy |
 | [0011-container-with-most-water](https://github.com/Aniruddh1210/Leetcode-Solutions/tree/main/0011-container-with-most-water/) | Medium |
 | [0015-3sum](https://github.com/Aniruddh1210/Leetcode-Solutions/tree/main/0015-3sum/) | Medium |
+| [0033-search-in-rotated-sorted-array](https://github.com/Aniruddh1210/Leetcode-Solutions/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Aniruddh1210/Leetcode-Solutions/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0035-search-insert-position](https://github.com/Aniruddh1210/Leetcode-Solutions/tree/main/0035-search-insert-position/) | Easy |
 | [0128-longest-consecutive-sequence](https://github.com/Aniruddh1210/Leetcode-Solutions/tree/main/0128-longest-consecutive-sequence/) | Medium |
@@ -199,6 +200,7 @@ Collection of LeetCode solns.
 ## Binary Search Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/Aniruddh1210/Leetcode-Solutions/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Aniruddh1210/Leetcode-Solutions/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0035-search-insert-position](https://github.com/Aniruddh1210/Leetcode-Solutions/tree/main/0035-search-insert-position/) | Easy |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Aniruddh1210/Leetcode-Solutions/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
