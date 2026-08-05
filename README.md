@@ -12,6 +12,7 @@ Collection of LeetCode solns.
 | [0033-search-in-rotated-sorted-array](https://github.com/Aniruddh1210/Leetcode-Solutions/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Aniruddh1210/Leetcode-Solutions/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0035-search-insert-position](https://github.com/Aniruddh1210/Leetcode-Solutions/tree/main/0035-search-insert-position/) | Easy |
+| [0081-search-in-rotated-sorted-array-ii](https://github.com/Aniruddh1210/Leetcode-Solutions/tree/main/0081-search-in-rotated-sorted-array-ii/) | Medium |
 | [0128-longest-consecutive-sequence](https://github.com/Aniruddh1210/Leetcode-Solutions/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0130-surrounded-regions](https://github.com/Aniruddh1210/Leetcode-Solutions/tree/main/0130-surrounded-regions/) | Medium |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Aniruddh1210/Leetcode-Solutions/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
@@ -203,6 +204,7 @@ Collection of LeetCode solns.
 | [0033-search-in-rotated-sorted-array](https://github.com/Aniruddh1210/Leetcode-Solutions/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Aniruddh1210/Leetcode-Solutions/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0035-search-insert-position](https://github.com/Aniruddh1210/Leetcode-Solutions/tree/main/0035-search-insert-position/) | Easy |
+| [0081-search-in-rotated-sorted-array-ii](https://github.com/Aniruddh1210/Leetcode-Solutions/tree/main/0081-search-in-rotated-sorted-array-ii/) | Medium |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Aniruddh1210/Leetcode-Solutions/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
 | [0700-search-in-a-binary-search-tree](https://github.com/Aniruddh1210/Leetcode-Solutions/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
 | [0701-insert-into-a-binary-search-tree](https://github.com/Aniruddh1210/Leetcode-Solutions/tree/main/0701-insert-into-a-binary-search-tree/) | Medium |
