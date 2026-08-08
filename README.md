@@ -29,6 +29,7 @@ Collection of LeetCode solns.
 | [0994-rotting-oranges](https://github.com/Aniruddh1210/Leetcode-Solutions/tree/main/0994-rotting-oranges/) | Medium |
 | [1020-number-of-enclaves](https://github.com/Aniruddh1210/Leetcode-Solutions/tree/main/1020-number-of-enclaves/) | Medium |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Aniruddh1210/Leetcode-Solutions/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
+| [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Aniruddh1210/Leetcode-Solutions/tree/main/1482-minimum-number-of-days-to-make-m-bouquets/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -217,4 +218,5 @@ Collection of LeetCode solns.
 | [0701-insert-into-a-binary-search-tree](https://github.com/Aniruddh1210/Leetcode-Solutions/tree/main/0701-insert-into-a-binary-search-tree/) | Medium |
 | [0704-binary-search](https://github.com/Aniruddh1210/Leetcode-Solutions/tree/main/0704-binary-search/) | Easy |
 | [0875-koko-eating-bananas](https://github.com/Aniruddh1210/Leetcode-Solutions/tree/main/0875-koko-eating-bananas/) | Medium |
+| [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Aniruddh1210/Leetcode-Solutions/tree/main/1482-minimum-number-of-days-to-make-m-bouquets/) | Medium |
 <!---LeetCode Topics End-->
