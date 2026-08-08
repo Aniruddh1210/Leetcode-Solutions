@@ -25,6 +25,7 @@ Collection of LeetCode solns.
 | [0542-01-matrix](https://github.com/Aniruddh1210/Leetcode-Solutions/tree/main/0542-01-matrix/) | Medium |
 | [0704-binary-search](https://github.com/Aniruddh1210/Leetcode-Solutions/tree/main/0704-binary-search/) | Easy |
 | [0733-flood-fill](https://github.com/Aniruddh1210/Leetcode-Solutions/tree/main/0733-flood-fill/) | Easy |
+| [0875-koko-eating-bananas](https://github.com/Aniruddh1210/Leetcode-Solutions/tree/main/0875-koko-eating-bananas/) | Medium |
 | [0994-rotting-oranges](https://github.com/Aniruddh1210/Leetcode-Solutions/tree/main/0994-rotting-oranges/) | Medium |
 | [1020-number-of-enclaves](https://github.com/Aniruddh1210/Leetcode-Solutions/tree/main/1020-number-of-enclaves/) | Medium |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Aniruddh1210/Leetcode-Solutions/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
@@ -215,4 +216,5 @@ Collection of LeetCode solns.
 | [0700-search-in-a-binary-search-tree](https://github.com/Aniruddh1210/Leetcode-Solutions/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
 | [0701-insert-into-a-binary-search-tree](https://github.com/Aniruddh1210/Leetcode-Solutions/tree/main/0701-insert-into-a-binary-search-tree/) | Medium |
 | [0704-binary-search](https://github.com/Aniruddh1210/Leetcode-Solutions/tree/main/0704-binary-search/) | Easy |
+| [0875-koko-eating-bananas](https://github.com/Aniruddh1210/Leetcode-Solutions/tree/main/0875-koko-eating-bananas/) | Medium |
 <!---LeetCode Topics End-->
