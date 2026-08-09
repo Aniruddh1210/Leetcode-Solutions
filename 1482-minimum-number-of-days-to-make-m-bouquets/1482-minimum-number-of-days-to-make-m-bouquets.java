@@ -1,57 +1,52 @@
 class Solution {
-
-    public int countBouquets(int[] bloomDay, int day, int k) {
-
-        int count = 0;
-        int bouquets = 0;
-
-        for (int val : bloomDay) {
-
-            if (val <= day) {
-                count++;
-            }
-            else {
-                bouquets += count / k;
-                count = 0;
-            }
-        }
-
-        bouquets += count / k;
-
-        return bouquets;
-    }
-
-
     public int minDays(int[] bloomDay, int m, int k) {
+        int[] vals = minMax(bloomDay);
+        int min = vals[0];
+        int max = vals[1];
 
-        if ((long) m * k > bloomDay.length) {
-            return -1;
-        }
-
-        int low = Integer.MAX_VALUE;
-        int high = Integer.MIN_VALUE;
-
-        for (int val : bloomDay) {
-            low = Math.min(low, val);
-            high = Math.max(high, val);
-        }
-
+        int low = min;
+        int high = max;
         int ans = -1;
 
-        while (low <= high) {
-
-            int mid = low + (high - low) / 2;
-
-            int bouquets = countBouquets(bloomDay, mid, k);
-
-            if (bouquets >= m) {
+        while(low<=high){
+            int mid = low + (high - low)/2;
+            
+            if(bouquets(bloomDay,mid,k)>=m){
                 ans = mid;
                 high = mid - 1;
-            }
-            else {
+            }else{
                 low = mid + 1;
             }
         }
+        
+        return ans;
+    }
+
+    public int[] minMax(int[] bloomDay){
+        int min = Integer.MAX_VALUE;
+        int max = -1;
+
+        for(int i : bloomDay){
+            min = Math.min(min,i);
+            max = Math.max(max,i);
+        }
+
+        return new int[]{min,max};
+
+    }
+
+    public int bouquets(int[] bloomDay, int mid, int k){
+        int count = 0, ans = 0;
+        for(int i = 0; i<bloomDay.length ;i++){
+            if(mid >= bloomDay[i]){
+                count++;
+            }else{
+                ans += count/k;
+                count = 0;
+            }
+        }
+        
+        ans += count / k;
 
         return ans;
     }
