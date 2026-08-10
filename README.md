@@ -32,6 +32,7 @@ Collection of LeetCode solns.
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Aniruddh1210/Leetcode-Solutions/tree/main/1283-find-the-smallest-divisor-given-a-threshold/) | Medium |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Aniruddh1210/Leetcode-Solutions/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Aniruddh1210/Leetcode-Solutions/tree/main/1482-minimum-number-of-days-to-make-m-bouquets/) | Medium |
+| [1539-kth-missing-positive-number](https://github.com/Aniruddh1210/Leetcode-Solutions/tree/main/1539-kth-missing-positive-number/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -223,4 +224,5 @@ Collection of LeetCode solns.
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Aniruddh1210/Leetcode-Solutions/tree/main/1011-capacity-to-ship-packages-within-d-days/) | Medium |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Aniruddh1210/Leetcode-Solutions/tree/main/1283-find-the-smallest-divisor-given-a-threshold/) | Medium |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Aniruddh1210/Leetcode-Solutions/tree/main/1482-minimum-number-of-days-to-make-m-bouquets/) | Medium |
+| [1539-kth-missing-positive-number](https://github.com/Aniruddh1210/Leetcode-Solutions/tree/main/1539-kth-missing-positive-number/) | Easy |
 <!---LeetCode Topics End-->
