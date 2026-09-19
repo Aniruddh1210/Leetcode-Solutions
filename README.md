@@ -9,6 +9,7 @@ Collection of LeetCode solns.
 | [0001-two-sum](https://github.com/Aniruddh1210/Leetcode-Solutions/tree/main/0001-two-sum/) | Easy |
 | [0011-container-with-most-water](https://github.com/Aniruddh1210/Leetcode-Solutions/tree/main/0011-container-with-most-water/) | Medium |
 | [0015-3sum](https://github.com/Aniruddh1210/Leetcode-Solutions/tree/main/0015-3sum/) | Medium |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/Aniruddh1210/Leetcode-Solutions/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0033-search-in-rotated-sorted-array](https://github.com/Aniruddh1210/Leetcode-Solutions/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Aniruddh1210/Leetcode-Solutions/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0035-search-insert-position](https://github.com/Aniruddh1210/Leetcode-Solutions/tree/main/0035-search-insert-position/) | Easy |
@@ -147,6 +148,7 @@ Collection of LeetCode solns.
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/Aniruddh1210/Leetcode-Solutions/tree/main/0011-container-with-most-water/) | Medium |
 | [0015-3sum](https://github.com/Aniruddh1210/Leetcode-Solutions/tree/main/0015-3sum/) | Medium |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/Aniruddh1210/Leetcode-Solutions/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0125-valid-palindrome](https://github.com/Aniruddh1210/Leetcode-Solutions/tree/main/0125-valid-palindrome/) | Easy |
 | [0141-linked-list-cycle](https://github.com/Aniruddh1210/Leetcode-Solutions/tree/main/0141-linked-list-cycle/) | Easy |
 ## Greedy
